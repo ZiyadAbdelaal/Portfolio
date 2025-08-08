@@ -9,7 +9,7 @@ import pandas as pd
 
 # Page configuration
 st.set_page_config(
-    page_title="Jane Smith - Biotech Portfolio",
+    page_title="Ziyad Abdelaal - Biotech Portfolio",
     page_icon="🧬",
     layout="wide",
     initial_sidebar_state="expanded"
