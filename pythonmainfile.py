@@ -431,7 +431,7 @@ def render_home_page():
     st.markdown(f"""
     <div class="main-header">
         <div class="rotating-element" style="display: inline-block; font-size: 2rem;">🧬</div>
-        <h1>🧪 Jane Smith</h1>
+        <h1>🧪 Ziyad Abdelaal</h1>
         <h3>Biotechnology Graduate & Researcher</h3>
         <p>Advancing healthcare through innovative biotech solutions</p>
     </div>
@@ -630,7 +630,7 @@ def render_contact_page():
         
         # Interactive contact buttons
         contact_methods = [
-            ("📧 Send Email", "✉️ Email client opened! (mailto:jane.smith@email.com)"),
+            ("📧 Send Email", "✉️ Email client opened! (mailto:ziyadabdelaal1@gmail.com)"),
             ("💼 LinkedIn Profile", "🔗 LinkedIn opened in new tab!"),
             ("💻 GitHub Portfolio", "🐱 GitHub profile opened!"),
             ("📱 Schedule Call", "📅 Calendar booking opened!")
@@ -713,7 +713,7 @@ def main():
     
     st.markdown("""
     <div style="text-align: center; padding: 2rem; color: #666;">
-        <p>© 2025 Jane Smith. Built with ❤️ using Streamlit</p>
+        <p>© 2025 Ziyad Abdelaal. Built with ❤️ using Streamlit</p>
         <p>✨ Biotech Portfolio - Explore, Discover, Innovate! ✨</p>
     </div>
     """, unsafe_allow_html=True)
